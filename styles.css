@@ -50,7 +50,7 @@ body{
 }
 
 .audioPlayer{
-   
+   display:none;
 }
 
 .popup .result{
