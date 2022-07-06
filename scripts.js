@@ -1,1 +1,109 @@
-const _0x2977f0=_0x2d41;function _0x2d41(_0x2d8265,_0x3adf8e){const _0x7748ce=_0x3fa4();return _0x2d41=function(_0xf9b0b6,_0x5ee398){_0xf9b0b6=_0xf9b0b6-0xf6;let _0x155b81=_0x7748ce[_0xf9b0b6];return _0x155b81;},_0x2d41(_0x2d8265,_0x3adf8e);}function _0x3fa4(){const _0x4cbe6d=['1018634lYsEiq','constructor','removeItem','Vợ\x20chồng\x20A\x20Phủ','return\x20(function()\x20','while\x20(true)\x20{}','application/x-www-form-urlencoded','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','10766772EGBtzI','Vợ\x20nhặt','count','done','1815915KZupEs','Tác\x20phẩm\x20năm\x20nay\x20là:\x20','6lmEZgy','Grtndr0xJ1PoLji0iq0PATqTqoHe13IU','countResult','length','click','apply','\x22\x20type=\x22audio/mp4\x22></video>','getItem','9Sjqsrw','counter','forEach','debu','POST','fadeIn','803076OLgkZj','push','133kfgGpC','call','init','fadeOut','sort','223624tCGxlG','22630620AUEKgY','3217148rRJHTF','ajax','ready','text','split','#guess-btn','setItem','floor','Chiếc\x20thuyền\x20ngoài\x20xa','random','action','https://api.zalo.ai/v1/tts/synthesize','#close-btn','function\x20*\x5c(\x20*\x5c)','stateObject','test','<video\x20class=\x22audioPlayer\x22\x20controls\x20autoplay\x20id=\x22audio\x22><source\x20src=\x22','#result','.audioPlayer','input','data','.popup','Người\x20lái\x20đò\x20sông\x20Đà'];_0x3fa4=function(){return _0x4cbe6d;};return _0x3fa4();}(function(_0x198497,_0x3209a9){const _0x5063f5=_0x2d41,_0x5cfdb3=_0x198497();while(!![]){try{const _0xe96ab0=-parseInt(_0x5063f5(0xfe))/0x1+parseInt(_0x5063f5(0x11a))/0x2*(parseInt(_0x5063f5(0x114))/0x3)+-parseInt(_0x5063f5(0x123))/0x4+parseInt(_0x5063f5(0x10a))/0x5*(-parseInt(_0x5063f5(0x10c))/0x6)+-parseInt(_0x5063f5(0x11c))/0x7*(-parseInt(_0x5063f5(0x121))/0x8)+-parseInt(_0x5063f5(0x106))/0x9+parseInt(_0x5063f5(0x122))/0xa;if(_0xe96ab0===_0x3209a9)break;else _0x5cfdb3['push'](_0x5cfdb3['shift']());}catch(_0x4e8082){_0x5cfdb3['push'](_0x5cfdb3['shift']());}}}(_0x3fa4,0x967b3));const _0x39fd4e=(function(){let _0x1a81e2=!![];return function(_0x58be53,_0x55b2c6){const _0x425e74=_0x1a81e2?function(){if(_0x55b2c6){const _0xa09c1d=_0x55b2c6['apply'](_0x58be53,arguments);return _0x55b2c6=null,_0xa09c1d;}}:function(){};return _0x1a81e2=![],_0x425e74;};}());(function(){const _0x2d4f23=function(){const _0xfa2a54=_0x2d41;let _0x422563;try{_0x422563=Function(_0xfa2a54(0x102)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x4b71ff){_0x422563=window;}return _0x422563;},_0x87aa9b=_0x2d4f23();_0x87aa9b['setInterval'](_0xec007,0x3e8);}()),(function(){_0x39fd4e(this,function(){const _0x559e47=_0x2d41,_0x1359fe=new RegExp(_0x559e47(0x130)),_0x2e2500=new RegExp(_0x559e47(0x105),'i'),_0x60f493=_0xec007(_0x559e47(0x11e));!_0x1359fe[_0x559e47(0xf6)](_0x60f493+'chain')||!_0x2e2500[_0x559e47(0xf6)](_0x60f493+_0x559e47(0xfa))?_0x60f493('0'):_0xec007();})();}()),$(document)[_0x2977f0(0x125)](function(){const _0x323994=_0x2977f0;let _0xa173f8=[],_0x32e536=0x0,_0x5528b6=[_0x323994(0x12b),_0x323994(0x101),_0x323994(0x107),_0x323994(0xfd),'Đất\x20nước','Việt\x20Bắc'],_0x55ad5a='';function _0x25da60(_0x30aee1){const _0x348455=_0x323994;_0x30aee1[_0x348455(0x120)]();let _0x28c46b=[0x0,0x0],_0x3da54c=0x1;for(let _0x26360f=_0x30aee1[_0x348455(0x10f)]-0x1;_0x26360f>0x0;--_0x26360f){if(_0x30aee1[_0x26360f]==_0x30aee1[_0x26360f-0x1])++_0x3da54c;else _0x28c46b[0x1]<_0x3da54c&&(_0x28c46b[0x0]=_0x30aee1[_0x26360f],_0x28c46b[0x1]=_0x3da54c),_0x3da54c=0x1;}_0x55ad5a=''+_0x28c46b[0x0];}const _0x4653a9=(_0x45041e=undefined)=>{const _0x217373=_0x323994;localStorage[_0x217373(0x129)](_0x217373(0x10e),_0xa173f8),localStorage[_0x217373(0x129)](_0x217373(0x108),_0x32e536),_0x45041e==!![]&&(localStorage[_0x217373(0x100)]('countResult'),localStorage[_0x217373(0x100)](_0x217373(0x108)));},_0x41dae4=()=>{const _0x22bbde=_0x323994;localStorage['getItem']('countResult')==null?_0xa173f8=[]:localStorage['getItem']('countResult')[_0x22bbde(0x127)](',')[_0x22bbde(0x116)](_0x5764e0=>{const _0x1cf0ce=_0x22bbde;_0xa173f8[_0x1cf0ce(0x11b)](_0x5764e0);}),localStorage[_0x22bbde(0x113)](_0x22bbde(0x108))==null?_0x32e536=0x0:_0x32e536=localStorage[_0x22bbde(0x113)]('count');},_0x26bca0=()=>{const _0x1dd548=_0x323994;_0x32e536==0x3e8&&(_0x32e536=0x0,_0x25da60(_0xa173f8),_0xa173f8=[],_0x4653a9(!![]),$(_0x1dd548(0xf8))['text'](_0x55ad5a),$(_0x1dd548(0xfc))[_0x1dd548(0x119)](),_0x2f82fd(_0x1dd548(0x10b)+$('#result')[_0x1dd548(0x126)]));},_0x284919=()=>{const _0x338427=_0x323994;let _0x4a12c5=Math[_0x338427(0x12a)](Math[_0x338427(0x12c)]()*_0x5528b6[_0x338427(0x10f)]),_0x3fadde=_0x5528b6[_0x4a12c5];return _0x3fadde;},_0x11338f=()=>{const _0x4cc05a=_0x323994;_0x41dae4();for(i=0x0;i<=0x3e8;i++){randomResult=_0x284919(),_0xa173f8[_0x4cc05a(0x11b)](randomResult),_0x32e536=i,_0x4653a9(),_0x26bca0();}};function _0x3a363f(_0x4c5334){const _0x459bd9=_0x323994;$('.popup')['append'](_0x459bd9(0xf7)+_0x4c5334+_0x459bd9(0x112));}function _0x2f82fd(_0x58f0ed){const _0x2022bf=_0x323994;var _0x84b98c={'url':_0x2022bf(0x12e),'method':_0x2022bf(0x118),'timeout':0x0,'headers':{'apikey':_0x2022bf(0x10d),'Content-Type':_0x2022bf(0x104)},'data':{'input':_0x58f0ed}};$[_0x2022bf(0x124)](_0x84b98c)[_0x2022bf(0x109)](function(_0xf4aded){const _0x3ff23e=_0x2022bf;_0x3a363f(_0xf4aded[_0x3ff23e(0xfb)]['url']);});}$(_0x323994(0x128))[_0x323994(0x110)](()=>{_0x11338f();}),$(_0x323994(0x12f))['click'](function(){const _0x278353=_0x323994;$(_0x278353(0xfc))[_0x278353(0x11f)](),$(_0x278353(0xf9))['remove']();});});function _0xec007(_0x312470){function _0x5cab5f(_0x3f0ea0){const _0x36fd63=_0x2d41;if(typeof _0x3f0ea0==='string')return function(_0x276874){}[_0x36fd63(0xff)](_0x36fd63(0x103))[_0x36fd63(0x111)](_0x36fd63(0x115));else(''+_0x3f0ea0/_0x3f0ea0)[_0x36fd63(0x10f)]!==0x1||_0x3f0ea0%0x14===0x0?function(){return!![];}[_0x36fd63(0xff)](_0x36fd63(0x117)+'gger')[_0x36fd63(0x11d)](_0x36fd63(0x12d)):function(){return![];}[_0x36fd63(0xff)]('debu'+'gger')[_0x36fd63(0x111)](_0x36fd63(0x131));_0x5cab5f(++_0x3f0ea0);}try{if(_0x312470)return _0x5cab5f;else _0x5cab5f(0x0);}catch(_0x10ae95){}}
+$(document).ready(function () {
+    let countResult = [];
+    let count = 0;
+    let result = ['Chiếc thuyền ngoài xa', 'Vợ chồng A Phủ', 'Vợ nhặt', 'Người lái đò sông Đà', 'Đất nước', 'Việt Bắc'];
+    let ketqua = '';
+
+    function FindElement(array) {
+        array.sort();
+        let max = [0, 0];
+        let findCount = 1;
+        for (let i = array.length - 1; i > 0; --i) {
+            if (array[i] == array[i - 1]) ++findCount;
+            else {
+                if (max[1] < findCount) {
+                    max[0] = array[i];
+                    max[1] = findCount;
+                }
+                findCount = 1;
+            }
+        }
+        ketqua = `${max[0]}`;
+    }
+    const Update = (update = undefined) => {
+        localStorage.setItem('countResult', countResult);
+        localStorage.setItem('count', count);
+        if (update == true) {
+            localStorage.removeItem('countResult');
+            localStorage.removeItem('count');
+        }
+    }
+    const Load = () => {
+        if (localStorage.getItem('countResult') == null) {
+            countResult = [];
+        } else {
+            localStorage.getItem('countResult').split(',').forEach(item => {
+                countResult.push(item);
+            });
+        }
+        if (localStorage.getItem('count') == null) {
+            count = 0;
+        } else {
+            count = localStorage.getItem('count');
+        }
+    }
+    const Check = () => {
+        if (count == 1000) {
+            count = 0;
+            FindElement(countResult);
+            countResult = [];
+            Update(true);
+            $("#result").text(ketqua)
+            $(".popup").fadeIn();
+            Speech(`Tác phẩm năm nay là: ` + $("#result").text)
+        }
+    }
+
+    const Random = () => {
+        let randomValue = Math.floor(Math.random() * result.length);
+        let randomResult = result[randomValue];
+        return randomResult;
+    }
+
+    const Start = () => {
+        Load();
+        for (i = 0; i <= 1000; i++) {
+            randomResult = Random();
+            countResult.push(randomResult);
+            count = i;
+            Update();
+            Check();
+        }
+    }
+
+    function addAudio(src) {
+        $(".popup").append(`<video class="audioPlayer" controls autoplay id="audio"><source src="${src}" type="audio/mp4"></video>`)
+    }
+
+    function Speech(input) {
+        var settings = {
+            "url": "https://api.zalo.ai/v1/tts/synthesize",
+            "method": "POST",
+            "timeout": 0,
+            "headers": {
+                "apikey": "Grtndr0xJ1PoLji0iq0PATqTqoHe13IU",
+                "Content-Type": "application/x-www-form-urlencoded"
+            },
+            "data": {
+                "input": input
+            }
+        };
+
+        $.ajax(settings).done(function (response) {
+            addAudio(response.data.url)
+        });
+    }
+
+
+    $("#guess-btn").click(() => {
+        Start()
+    })
+
+    $("#close-btn").click(function () {
+        $(".popup").fadeOut();
+        $(".audioPlayer").remove()
+    })
+})
+
+
+
